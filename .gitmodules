@@ -1,0 +1,3 @@
+[submodule "gh-submodule-repo-http"]
+	path = gh-submodule-repo-http
+	url = https://github.com/slskopytko/gh-submodule-repo-http.git
